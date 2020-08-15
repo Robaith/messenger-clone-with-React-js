@@ -10,10 +10,10 @@
     text-align: left !important;
 }
 
-.userCard{
-    background-color: blue !important;
+.message__userCard{
+    background-color:#0078FF !important;
 }
 
-.guestCard{
-    background-color: gray !important;
+.message__guestCard{
+    background-color: rgb(238, 238, 238) !important;
 }
